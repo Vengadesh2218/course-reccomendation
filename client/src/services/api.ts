@@ -1,6 +1,6 @@
 import { StudentProfile, Course, RecommendationResponse, User } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_URL || '/api';
 
 export async function loginUser(email: string, password: string, role: 'STUDENT' | 'ADMIN') {
   const res = await fetch(`${API_BASE}/auth/login`, {

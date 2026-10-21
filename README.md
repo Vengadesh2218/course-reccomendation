@@ -2,6 +2,8 @@
 
 PathWise AI is an intelligent course and career recommendation engine designed to guide high school and undergraduate students toward optimal degree programs, specialized career pathways, and academic growth based on their stream, subject marks, interests, and aspirations.
 
+🌐 **Live Demo (Frontend)**: [https://vengadesh2218.github.io/course-reccomendation/](https://vengadesh2218.github.io/course-reccomendation/)
+
 ---
 
 ## 🌟 Key Features

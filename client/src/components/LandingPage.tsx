@@ -88,14 +88,14 @@ export const LandingPage: React.FC<LandingPageProps> = ({
             muted
             loop
             playsInline
-            poster="/videos/hero-poster.png"
+            poster={`${import.meta.env.BASE_URL}videos/hero-poster.png`}
             className="w-full h-full object-cover object-center opacity-40 mix-blend-luminosity brightness-90 transition-opacity duration-1000 scale-105"
           >
-            <source src="/videos/hero-background.mp4" type="video/mp4" />
-            <source src="/videos/gemini_generated_video_b5678760.mp4" type="video/mp4" />
+            <source src={`${import.meta.env.BASE_URL}videos/hero-background.mp4`} type="video/mp4" />
+            <source src={`${import.meta.env.BASE_URL}videos/gemini_generated_video_b5678760.mp4`} type="video/mp4" />
             {/* Accessible Fallback image if video fails */}
             <img 
-              src="/videos/hero-poster.png" 
+              src={`${import.meta.env.BASE_URL}videos/hero-poster.png`} 
               alt="PathWise AI Academic Guidance" 
               className="w-full h-full object-cover" 
             />
