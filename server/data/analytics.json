@@ -1,16 +1,16 @@
 {
-  "totalRecommendations": 113,
+  "totalRecommendations": 115,
   "levelCounts": {
     "COMPLETED_10TH": 3,
-    "COMPLETED_12TH": 104,
+    "COMPLETED_12TH": 106,
     "UG_STUDENT": 4,
     "PG_STUDENT": 2
   },
   "topRecommendedCourses": {
     "11th/12th Science with Computer Science Stream": 3,
-    "B.Tech in Artificial Intelligence & Data Science": 95,
-    "B.Tech in Computer Science & Engineering": 95,
-    "B.Sc in Computer Science": 94,
+    "B.Tech in Artificial Intelligence & Data Science": 97,
+    "B.Tech in Computer Science & Engineering": 97,
+    "B.Sc in Computer Science": 96,
     "B.Sc in Cyber Security & Digital Forensics": 3,
     "BBA (Bachelor of Business Administration)": 2,
     "B.Com (Honors) in Finance & Accounting": 2,
@@ -21,9 +21,9 @@
     "B.Des in UI/UX & Digital Product Design": 1
   },
   "topInterests": {
-    "Technology": 103,
-    "Programming": 103,
-    "Artificial Intelligence": 100,
+    "Technology": 105,
+    "Programming": 105,
+    "Artificial Intelligence": 102,
     "Biotechnology": 2,
     "Finance": 2,
     "Business": 2,
@@ -40,10 +40,10 @@
     "Engineering": 1
   },
   "topSkills": {
-    "Mathematics": 105,
-    "Logical Thinking": 103,
-    "Programming": 109,
-    "Problem Solving": 101,
+    "Mathematics": 107,
+    "Logical Thinking": 105,
+    "Programming": 111,
+    "Problem Solving": 103,
     "Computer Skills": 8,
     "Research": 9,
     "Business Skills": 2,
