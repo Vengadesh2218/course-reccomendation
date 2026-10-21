@@ -1,0 +1,11 @@
+{
+  "name": "pathwise-ai-platform",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PathWise AI - Intelligent Course & Career Recommendation Platform",
+  "scripts": {
+    "start": "npm --prefix server start",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev"
+  }
+}

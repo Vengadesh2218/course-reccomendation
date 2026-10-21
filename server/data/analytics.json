@@ -1,0 +1,56 @@
+{
+  "totalRecommendations": 113,
+  "levelCounts": {
+    "COMPLETED_10TH": 3,
+    "COMPLETED_12TH": 104,
+    "UG_STUDENT": 4,
+    "PG_STUDENT": 2
+  },
+  "topRecommendedCourses": {
+    "11th/12th Science with Computer Science Stream": 3,
+    "B.Tech in Artificial Intelligence & Data Science": 95,
+    "B.Tech in Computer Science & Engineering": 95,
+    "B.Sc in Computer Science": 94,
+    "B.Sc in Cyber Security & Digital Forensics": 3,
+    "BBA (Bachelor of Business Administration)": 2,
+    "B.Com (Honors) in Finance & Accounting": 2,
+    "B.Sc in Data Analytics & Applied Statistics": 2,
+    "M.Sc in Computer Science": 2,
+    "MCA (Master of Computer Applications)": 2,
+    "M.Sc in Artificial Intelligence & Data Science": 2,
+    "B.Des in UI/UX & Digital Product Design": 1
+  },
+  "topInterests": {
+    "Technology": 103,
+    "Programming": 103,
+    "Artificial Intelligence": 100,
+    "Biotechnology": 2,
+    "Finance": 2,
+    "Business": 2,
+    "Data": 3,
+    "Cloud Computing": 5,
+    "Management": 2,
+    "Research": 2,
+    "Design": 1,
+    "Cybersecurity": 2,
+    "Arts": 1,
+    "Medicine": 2,
+    "Drawing": 1,
+    "Computer Science": 1,
+    "Engineering": 1
+  },
+  "topSkills": {
+    "Mathematics": 105,
+    "Logical Thinking": 103,
+    "Programming": 109,
+    "Problem Solving": 101,
+    "Computer Skills": 8,
+    "Research": 9,
+    "Business Skills": 2,
+    "Data Analysis": 4,
+    "Communication": 6,
+    "Leadership": 4,
+    "Drawing/Design": 2,
+    "Creativity": 2
+  }
+}

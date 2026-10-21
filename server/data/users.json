@@ -1,0 +1,106 @@
+[
+  {
+    "id": "u-admin-1",
+    "name": "PathWise Administrator",
+    "email": "admin@pathwise.ai",
+    "role": "ADMIN",
+    "passwordHash": "admin123",
+    "createdAt": "2026-09-28T11:08:05.160Z"
+  },
+  {
+    "id": "u-student-demo",
+    "name": "Alex Rivera",
+    "email": "alex@example.com",
+    "role": "STUDENT",
+    "passwordHash": "student123",
+    "createdAt": "2026-09-28T11:08:05.161Z",
+    "profile": {
+      "name": "Alex Rivera",
+      "email": "alex@example.com",
+      "educationLevel": "COMPLETED_12TH",
+      "stream12th": "Computer Science + Mathematics",
+      "subjectsStudied12th": [
+        "Computer Science",
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "English"
+      ],
+      "overall12thPercentage": 88,
+      "subjectMarks12th": {
+        "Computer Science": 94,
+        "Mathematics": 85,
+        "Physics": 82,
+        "Chemistry": 80,
+        "English": 90
+      },
+      "interests": [
+        "Technology",
+        "Programming",
+        "Artificial Intelligence"
+      ],
+      "skills": {
+        "Programming": 5,
+        "Logical Thinking": 4,
+        "Problem Solving": 4,
+        "Mathematics": 4
+      },
+      "careerGoals": [
+        "Software Engineer",
+        "AI Engineer"
+      ],
+      "preferredDomains": [
+        "Computer Science & IT",
+        "Data Science & AI"
+      ]
+    }
+  },
+  {
+    "id": "u-student-1790655872525",
+    "name": "Manoj V",
+    "email": "mano@gamil.com",
+    "role": "STUDENT",
+    "passwordHash": "mano@123",
+    "createdAt": "2026-09-29T04:24:32.525Z"
+  },
+  {
+    "id": "u-student-1790657096977",
+    "name": "vijay",
+    "email": "vijay@gamil.com",
+    "role": "STUDENT",
+    "passwordHash": "vijay123",
+    "createdAt": "2026-09-29T04:44:56.977Z"
+  },
+  {
+    "id": "u-student-1790658163644",
+    "name": "Ajith N",
+    "email": "ajith@gamil.com",
+    "role": "STUDENT",
+    "passwordHash": "ajith123",
+    "createdAt": "2026-09-29T05:02:43.645Z"
+  },
+  {
+    "id": "u-student-1790660218667",
+    "name": "Vikram M",
+    "email": "vikram@gamil.com",
+    "role": "STUDENT",
+    "passwordHash": "vikram123",
+    "createdAt": "2026-09-29T05:36:58.667Z"
+  },
+  {
+    "id": "u-student-1790743121816",
+    "name": "Manoj V",
+    "email": "mano@gmail.com",
+    "role": "STUDENT",
+    "passwordHash": "mano123",
+    "createdAt": "2026-09-30T04:38:41.816Z"
+  },
+  {
+    "id": "u-student-1790845367792",
+    "name": "Vengat M",
+    "email": "vengat@gmail.com",
+    "role": "STUDENT",
+    "passwordHash": "vengat@123",
+    "createdAt": "2026-10-01T09:02:47.792Z"
+  }
+]
